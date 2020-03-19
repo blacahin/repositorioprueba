@@ -1,2 +1,2 @@
 # repositorioprueba
-Prueba
+Prueba. Estoy aprendiendo a trabajar con GIT
